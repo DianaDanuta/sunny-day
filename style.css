@@ -46,7 +46,7 @@
     }
     
     .greyCloud {
-        top: 88%;
+        top: 87%;
         left: -40%;
         transform: translateY(-50%);
         animation: cloudsAnimation3 35s linear infinite;
